@@ -1,5 +1,5 @@
 .tópicos {
-    background: var(--azul-degrade);
+    background: color(srgb red green blue);
     text-align: center;
     padding: 1em 0;
 }
